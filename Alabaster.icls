@@ -4,7 +4,7 @@
     <property name="created">2019-07-02T18:56:28</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2020-01-29T11:48:28</property>
+    <property name="modified">2020-02-25T15:20:59</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <console-font>
@@ -18,8 +18,8 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
-    <option name="CARET_COLOR" value="7acc" />
-    <option name="CARET_ROW_COLOR" value="" />
+    <option name="CARET_COLOR" value="aaff" />
+    <option name="CARET_ROW_COLOR" value="fcffe6" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f0f0f0" />
     <option name="READONLY_BACKGROUND" value="efefef" />
     <option name="SELECTION_BACKGROUND" value="b4d8fd" />

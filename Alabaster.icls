@@ -4,14 +4,15 @@
     <property name="created">2020-11-19T00:21:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2023-11-21T14:38:59</property>
+    <property name="modified">2024-04-16T13:16:10</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrainsMono Nerd Font Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="aaff" />
@@ -34,7 +35,7 @@
         <option name="BACKGROUND" value="ffcccc" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="" />
     <option name="BASH.FUNCTION_DEF_NAME">
       <value>
         <option name="FOREGROUND" value="3e7e" />
@@ -45,6 +46,12 @@
       <value>
         <option name="FOREGROUND" value="64200" />
         <option name="BACKGROUND" value="e5fad7" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="808080" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -70,6 +77,12 @@
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
         <option name="FOREGROUND" value="777777" />
+      </value>
+    </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7f0000" />
+        <option name="BACKGROUND" value="fde5e5" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">

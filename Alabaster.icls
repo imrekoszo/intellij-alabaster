@@ -4,7 +4,7 @@
     <property name="created">2020-11-19T00:21:38</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2024-04-16T13:16:10</property>
+    <property name="modified">2024-08-05T15:17:42</property>
     <property name="originalScheme">Alabaster</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -15,12 +15,12 @@
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="CARET_COLOR" value="aaff" />
-    <option name="CARET_ROW_COLOR" value="fcffe6" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="f0f0f0" />
-    <option name="READONLY_BACKGROUND" value="efefef" />
-    <option name="SELECTION_BACKGROUND" value="b4d8fd" />
-    <option name="SELECTION_FOREGROUND" value="5d91" />
+    <option name="CARET_COLOR" value="00AAFF" />
+    <option name="CARET_ROW_COLOR" value="FCFFE6" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="F0F0F0" />
+    <option name="READONLY_BACKGROUND" value="EFEFEF" />
+    <option name="SELECTION_BACKGROUND" value="B4D8FD" />
+    <option name="SELECTION_FOREGROUND" value="005D91" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
@@ -35,7 +35,7 @@
         <option name="BACKGROUND" value="ffcccc" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="" />
+    <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="BASH.FUNCTION_DEF_NAME">
       <value>
         <option name="FOREGROUND" value="3e7e" />
@@ -144,8 +144,8 @@
         <option name="EFFECT_COLOR" value="7acc" />
       </value>
     </option>
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="660e7a" />
@@ -161,11 +161,11 @@
         <option name="FOREGROUND" value="660000" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="C_BOOLEAN">
       <value>
         <option name="FOREGROUND" value="7a3e9d" />

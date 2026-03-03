@@ -1,10 +1,12 @@
 # Alabaster Color Scheme
 
-A light color scheme with minimal amount of highlighting for IntelliJ IDEA.
+A light & dark color schemes with minimal amount of highlighting for IntelliJ IDEA.
 
 For motivation, see [sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster).
 
 ![Screenshot](screenshot.png)
+
+![Screenshot](screenshot-dark.png)
 
 Alalbaster for IntelliJ is fine tuned for:
 
@@ -17,10 +19,14 @@ Other languages work perfectly fine as well, but may do some extra unnecessary h
 
 ## Installation
 
-1. Download [Alabaster.icls](https://raw.githubusercontent.com/tonsky/intellij-alabaster/master/Alabaster.icls).
+1. Download [Alabaster.icls] or [Alabaster Dark.icls].
 2. Import through Preferences → Editor → Color scheme → Import Scheme...
 
+[Alabaster.icls]: https://raw.githubusercontent.com/tonsky/intellij-alabaster/master/Alabaster.icls
+[Alabaster Dark.icls]: https://raw.githubusercontent.com/tonsky/intellij-alabaster/master/Alabaster%20Dark.icls
+
 ![Installation](installation.png)
+
 
 ## License
 
@@ -30,6 +36,8 @@ Other languages work perfectly fine as well, but may do some extra unnecessary h
 
 - Version for Sublime Text [tonsky/sublime-scheme-alabaster](https://github.com/tonsky/sublime-scheme-alabaster)
 - Version for Visual Studio Code [tonsky/vscode-theme-alabaster](https://github.com/tonsky/vscode-theme-alabaster)
+- For JetBrains IDEs as a plugin [nabato/alabaster-themes](https://github.com/nabato/alabaster-themes)
+- For JetBrains IDEs as yet another plugin [SimY4/jetbrains-alabaster-theme](https://github.com/SimY4/jetbrains-alabaster-theme)
 - Version for Vim [agudulin/vim-colors-alabaster](https://github.com/agudulin/vim-colors-alabaster)
 - Alternative version for Sublime Text 2 [freetonik/Travertine](https://github.com/freetonik/Travertine)
 - Dark version for VS Code [apust/vscode-rubber-theme](https://github.com/apust/vscode-rubber-theme)
